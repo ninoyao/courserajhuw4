@@ -1,16 +1,17 @@
 # courserajhuw4
 # 5 mission in total
-# 1 Merges the training and the test sets to create one data set.
-# 2 Extracts only the measurements on the mean and standard deviation for each measurement.
-# 3 Uses descriptive activity names to name the activities in the data set
-# 4 Appropriately labels the data set with descriptive variable names.
-# 5 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+ 1 Merges the training and the test sets to create one data set.
+ 2 Extracts only the measurements on the mean and standard deviation for each measurement.
+ 3 Uses descriptive activity names to name the activities in the data set
+ 4 Appropriately labels the data set with descriptive variable names.
+ 5 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Run run_analysis.R
+# Run run_analysis.R
 There are 2 packages we need.
 data.table;reshape2
 
-## Download and unzip the data into working directory by ourseleves
+# Download and unzip the data into working directory by ourseleves
+
 ## What the script have done.
 # read data 
 read data from the working diretory
